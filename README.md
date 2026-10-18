@@ -34,6 +34,7 @@
 - [UCLA Mindful](https://www.uclahealth.org/programs/marc/free-meditation-app) - Free app from UCLA's Mindful Awareness Research Center.
 - [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Free app by the U.S. Department of Veterans Affairs.
 - [Liberate](https://liberate.app/) - Free meditation app designed for the Black, Indigenous, and People of Color community.
+- [Sen](https://apps.apple.com/us/app/sen-ai-mental-wellness/id6818973571) - AI wellness companion for iOS with lotus-guided breathing (5-5, box, 4-7-8), 5-4-3-2-1 grounding, a calm sound mixer and a mood journal, in English and Vietnamese. Free with an optional subscription.
 
 ### Paid
 - [Calm](https://www.calm.com/) - Popular app for sleep, meditation, and relaxation.
