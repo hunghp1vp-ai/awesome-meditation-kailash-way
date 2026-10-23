@@ -151,6 +151,7 @@
 
 - [Insight Timer Web](https://insighttimer.com/) - Free meditation timer with community.
 - [Box Breathing Tool](https://www.boxbreathing.org/) - Tactical breathing exercise.
+- [BreathBloom](https://getapps.cafe/app/breathbloom) - Guided breathing timer for Mac and Windows with box, 4-7-8, Wim Hof and custom patterns.
 - [Pomofocus](https://pomofocus.io/) - Focus timer for mindful work sessions.
 - [Tibetan Singing Bowl Sounds](https://www.youtube.com/results?search_query=tibetan+singing+bowl) - Traditional singing bowl soundscapes.
 - [Noisli](https://www.noisli.com/) - Background sounds for focus and relaxation.
