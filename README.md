@@ -44,6 +44,7 @@
 - [Buddhify](https://buddhify.com/) - Modern mindfulness app for on-the-go meditation.
 - [Unplug](https://unplug.com/) - Meditation app with 700+ guided sessions.
 - [Aura](https://www.aurahealth.io/) - AI-powered mindfulness coach.
+- [ZenBell](https://getapps.cafe/app/zenbell) - Menu bar meditation bell for macOS that tracks a daily minutes goal across short sits.
 
 ## Free Guided Meditations
 
